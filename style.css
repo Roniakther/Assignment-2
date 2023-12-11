@@ -364,9 +364,8 @@ hr{
         flex-direction: column;
         justify-content: center;
         align-items: center;
-       gap: 10px;
-       margin-right: 20px;
-      
+        margin-right: 60px;
+        margin-left: 30px;
     }
     #logoDiv>h1{
         font-size: 30px;
@@ -376,19 +375,20 @@ hr{
         display: flex;
         justify-content: space-between;
         align-items: center;
-        gap: 20px;
+        gap: 10px;
     }
     #manuDiv{
         display: flex;
         align-items: center;
         justify-content: space-between;
-        gap: 20px;
+        gap: 10px;
+      
     }
     li{
-        font-size: 20px;
+        font-size: 18px;
         list-style: none;
-        width: 70px;
-        
+        width: 80px;
+       
     }
     #buttonimg>button{
         display: flex;
